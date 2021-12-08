@@ -104,7 +104,7 @@ export const CUSTOM_BASES: { [chainId in ChainId]?: { [tokenAddress: string]: To
 export const SUGGESTED_BASES: ChainTokenList = {
   ...WETH_ONLY,
   [ChainId.FINDORA_FORGE]: [...WETH_ONLY[ChainId.FINDORA_FORGE], FIP, LOS, HID],
-  // [ChainId.MAINNET]: [...WETH_ONLY[ChainId.MAINNET], DAI, USDC, USDT, WBTC]
+  [ChainId.MAINNET]: [...WETH_ONLY[ChainId.MAINNET], DAI, USDC, USDT, WBTC]
 }
 
 // used to construct the list of all pairs we consider by default in the frontend

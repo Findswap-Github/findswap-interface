@@ -24,7 +24,7 @@ import SwapHeader from '../../components/swap/SwapHeader'
 import { INITIAL_ALLOWED_SLIPPAGE } from '../../constants'
 import { getTradeVersion } from '../../data/V1'
 import { useActiveWeb3React } from '../../hooks'
-import { useCurrency, useAllTokens } from '../../hooks/Tokens'
+import { useCurrency, useDefaultTokens } from '../../hooks/Tokens'
 import { ApprovalState, useApproveCallbackFromTrade } from '../../hooks/useApproveCallback'
 import useENSAddress from '../../hooks/useENSAddress'
 import { useSwapCallback } from '../../hooks/useSwapCallback'
@@ -68,7 +68,8 @@ export default function Swap({ history }: RouteComponentProps) {
   }, [])
 
   // dismiss warning if all imported tokens are in active lists
-  const defaultTokens = useAllTokens()
+  // [TODO] temp fix for tokens appearing from another chain
+  const defaultTokens = useDefaultTokens()
   const importTokensNotInDefault =
     urlLoadedTokens &&
     urlLoadedTokens.filter((token: Token) => {
