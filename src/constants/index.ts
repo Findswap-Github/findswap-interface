@@ -40,7 +40,8 @@ export const GOVERNANCE_ADDRESS = '0x9db42E36ff474498d79d57DA76Ae256D5347B399'
 
 export const TIMELOCK_ADDRESS = '0x1a9C8182C09F50C8318d769245beA52c32BE35BC'
 
-const UNI_ADDRESS = '0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984'
+const UNI_ADDRESS = '0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984' // mainnet
+const FIP_ADDRESS = '0x0a3946Bc3FEc1A536F321839a360a33213F40eBA'
 export const UNI: { [chainId in ChainId]: Token } = {
   [ChainId.MAINNET]: new Token(ChainId.MAINNET, UNI_ADDRESS, 18, 'UNI', 'Uniswap'),
   [ChainId.RINKEBY]: new Token(ChainId.RINKEBY, UNI_ADDRESS, 18, 'UNI', 'Uniswap'),
@@ -51,7 +52,7 @@ export const UNI: { [chainId in ChainId]: Token } = {
 }
 
 export const COMMON_CONTRACT_NAMES: { [address: string]: string } = {
-  ['0x0a3946Bc3FEc1A536F321839a360a33213F40eBA']: 'UNI',
+  [FIP_ADDRESS]: 'UNI',
   [GOVERNANCE_ADDRESS]: 'Governance',
   [TIMELOCK_ADDRESS]: 'Timelock'
 }
