@@ -4,8 +4,8 @@
     "static/js/0.9de162eb.chunk.js.map": "/findswap-interface/static/js/0.9de162eb.chunk.js.map",
     "static/js/1.69f2bb96.chunk.js": "/findswap-interface/static/js/1.69f2bb96.chunk.js",
     "static/js/1.69f2bb96.chunk.js.map": "/findswap-interface/static/js/1.69f2bb96.chunk.js.map",
-    "main.js": "/findswap-interface/static/js/main.6a97879d.chunk.js",
-    "main.js.map": "/findswap-interface/static/js/main.6a97879d.chunk.js.map",
+    "main.js": "/findswap-interface/static/js/main.3c7ce197.chunk.js",
+    "main.js.map": "/findswap-interface/static/js/main.3c7ce197.chunk.js.map",
     "runtime-main.js": "/findswap-interface/static/js/runtime-main.55c026f4.js",
     "runtime-main.js.map": "/findswap-interface/static/js/runtime-main.55c026f4.js.map",
     "static/css/4.0de65662.chunk.css": "/findswap-interface/static/css/4.0de65662.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.a9c7c454.chunk.js": "/findswap-interface/static/js/9.a9c7c454.chunk.js",
     "static/js/9.a9c7c454.chunk.js.map": "/findswap-interface/static/js/9.a9c7c454.chunk.js.map",
     "index.html": "/findswap-interface/index.html",
-    "precache-manifest.ec789d2fdff799e6e3505d036e383382.js": "/findswap-interface/precache-manifest.ec789d2fdff799e6e3505d036e383382.js",
+    "precache-manifest.216f539aacb1c479c4b01b61f803b20c.js": "/findswap-interface/precache-manifest.216f539aacb1c479c4b01b61f803b20c.js",
     "service-worker.js": "/findswap-interface/service-worker.js",
     "static/css/4.0de65662.chunk.css.map": "/findswap-interface/static/css/4.0de65662.chunk.css.map",
     "static/js/4.91bce139.chunk.js.LICENSE.txt": "/findswap-interface/static/js/4.91bce139.chunk.js.LICENSE.txt",
@@ -64,6 +64,6 @@
     "static/js/runtime-main.55c026f4.js",
     "static/css/4.0de65662.chunk.css",
     "static/js/4.91bce139.chunk.js",
-    "static/js/main.6a97879d.chunk.js"
+    "static/js/main.3c7ce197.chunk.js"
   ]
 }

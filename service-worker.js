@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/findswap-interface/precache-manifest.ec789d2fdff799e6e3505d036e383382.js"
+  "/findswap-interface/precache-manifest.216f539aacb1c479c4b01b61f803b20c.js"
 );
 
 self.addEventListener('message', (event) => {

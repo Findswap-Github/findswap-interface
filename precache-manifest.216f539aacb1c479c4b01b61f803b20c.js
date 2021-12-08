@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f1d9fca30fa7a03c8f70ad6e075216e",
+    "revision": "3d35d0cb344a727a9b77255a6acc052c",
     "url": "/findswap-interface/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/findswap-interface/static/js/9.a9c7c454.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d4f2d117f0180987295",
-    "url": "/findswap-interface/static/js/main.6a97879d.chunk.js"
+    "revision": "391eeb30f335728aa17e",
+    "url": "/findswap-interface/static/js/main.3c7ce197.chunk.js"
   },
   {
     "revision": "725338c6edb4b3006ad9",
