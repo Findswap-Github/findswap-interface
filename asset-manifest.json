@@ -9,8 +9,8 @@
     "runtime-main.js": "/findswap-interface/static/js/runtime-main.55c026f4.js",
     "runtime-main.js.map": "/findswap-interface/static/js/runtime-main.55c026f4.js.map",
     "static/css/4.0de65662.chunk.css": "/findswap-interface/static/css/4.0de65662.chunk.css",
-    "static/js/4.26044ab6.chunk.js": "/findswap-interface/static/js/4.26044ab6.chunk.js",
-    "static/js/4.26044ab6.chunk.js.map": "/findswap-interface/static/js/4.26044ab6.chunk.js.map",
+    "static/js/4.91bce139.chunk.js": "/findswap-interface/static/js/4.91bce139.chunk.js",
+    "static/js/4.91bce139.chunk.js.map": "/findswap-interface/static/js/4.91bce139.chunk.js.map",
     "static/js/5.52fa49c2.chunk.js": "/findswap-interface/static/js/5.52fa49c2.chunk.js",
     "static/js/5.52fa49c2.chunk.js.map": "/findswap-interface/static/js/5.52fa49c2.chunk.js.map",
     "static/js/6.186ba3c5.chunk.js": "/findswap-interface/static/js/6.186ba3c5.chunk.js",
@@ -22,10 +22,10 @@
     "static/js/9.a9c7c454.chunk.js": "/findswap-interface/static/js/9.a9c7c454.chunk.js",
     "static/js/9.a9c7c454.chunk.js.map": "/findswap-interface/static/js/9.a9c7c454.chunk.js.map",
     "index.html": "/findswap-interface/index.html",
-    "precache-manifest.bc1480e2a3e8341fb9764f619cf642c8.js": "/findswap-interface/precache-manifest.bc1480e2a3e8341fb9764f619cf642c8.js",
+    "precache-manifest.ec789d2fdff799e6e3505d036e383382.js": "/findswap-interface/precache-manifest.ec789d2fdff799e6e3505d036e383382.js",
     "service-worker.js": "/findswap-interface/service-worker.js",
     "static/css/4.0de65662.chunk.css.map": "/findswap-interface/static/css/4.0de65662.chunk.css.map",
-    "static/js/4.26044ab6.chunk.js.LICENSE.txt": "/findswap-interface/static/js/4.26044ab6.chunk.js.LICENSE.txt",
+    "static/js/4.91bce139.chunk.js.LICENSE.txt": "/findswap-interface/static/js/4.91bce139.chunk.js.LICENSE.txt",
     "static/js/5.52fa49c2.chunk.js.LICENSE.txt": "/findswap-interface/static/js/5.52fa49c2.chunk.js.LICENSE.txt",
     "static/js/9.a9c7c454.chunk.js.LICENSE.txt": "/findswap-interface/static/js/9.a9c7c454.chunk.js.LICENSE.txt",
     "static/media/inter.css": "/findswap-interface/static/media/Inter.var.4b976905.woff2",
@@ -63,7 +63,7 @@
   "entrypoints": [
     "static/js/runtime-main.55c026f4.js",
     "static/css/4.0de65662.chunk.css",
-    "static/js/4.26044ab6.chunk.js",
+    "static/js/4.91bce139.chunk.js",
     "static/js/main.6a97879d.chunk.js"
   ]
 }
