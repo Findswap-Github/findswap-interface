@@ -2870,7 +2870,7 @@
 
 "@uniswap/default-token-list@https://github.com/Findswap-Github/default-token-list":
   version "2.1.0"
-  resolved "https://github.com/Findswap-Github/default-token-list#754e70b3c6df416bfafa695b66e10379b39f5aeb"
+  resolved "https://github.com/Findswap-Github/default-token-list#4f0e5022caad879134108b2d18503ad605e0611b"
 
 "@uniswap/governance@^1.0.2":
   version "1.0.2"
